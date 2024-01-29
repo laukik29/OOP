@@ -1,3 +1,4 @@
+package Characters;
 class CharEx2 {
     public static void main(String args[]) {
         char a ='A';
@@ -5,7 +6,6 @@ class CharEx2 {
         a++;
         b+=1;
         System.out.println("a =" + a + ", b =" + b);
-        // output a =B, b =C
-        // if a=a+1 gives an error
+        //output a =B, b =C
     }
 }
