@@ -1,0 +1,5 @@
+for initializing the objet
+code will have fully initialized object 
+has same name as class in which it resides
+has optional parameter list 
+has no return type, not even void

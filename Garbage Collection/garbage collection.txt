@@ -1,0 +1,5 @@
+when obkect no longer needed 
+memory occupied by object is reclaimed 
+heap : objects are stored
+stack : references to these objects are stored 
+System.gc()
