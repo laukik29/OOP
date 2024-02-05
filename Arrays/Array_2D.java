@@ -20,7 +20,7 @@
 
 class Array_2D {
     public static void main(String[] args) {
-        String[][]names = {{ "Manish", "Mehta"},{"Motu", "Malhotra"}};
+        String[][] names = {{ "Manish", "Mehta"},{"Motu", "Malhotra"}};
 
 
 
