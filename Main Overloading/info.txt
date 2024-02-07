@@ -1,0 +1,3 @@
+jvm always looks for main method signature to launch the program, 
+normal main method acts as an enrty point to start execution, the overloaded method does not work
+need to call the the main method and other from there 
